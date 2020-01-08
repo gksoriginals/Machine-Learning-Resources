@@ -1,6 +1,6 @@
 # Machine Learning Resources
-## [Siraj Ravel Youtube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-   This is the best resource in the internet for learning machine learning. His videos are funny and explain complex ml stuffs very simply.
+## [Sentdex YouTube Channel](https://www.youtube.com/sentdex)
+   This is the best resource in the internet for learning machine learning. His videos are to the point and explain complex ml stuffs very simply.
 ## [r2d3 visual intro to ml](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
    This is a must visited machine learning intro website. They visually explain    
 basic machine learning concepts and terms 
