@@ -13,3 +13,4 @@ basic machine learning concepts and terms
 ## [Machine learning Mastery](https://machinelearningmastery.com)
    This is another blog about machine learning.
 ## More will be coming...
+## Andrew Ng course for better understanding about mathematical concepts needed for machine learning
